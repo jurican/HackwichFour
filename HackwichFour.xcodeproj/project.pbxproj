@@ -16,6 +16,7 @@
 		A845A98127BE4A5800A2ACC7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A845A97F27BE4A5800A2ACC7 /* LaunchScreen.storyboard */; };
 		A845A98C27BE4A5800A2ACC7 /* HackwichFourTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A845A98B27BE4A5800A2ACC7 /* HackwichFourTests.swift */; };
 		A845A99727BE4A5800A2ACC7 /* HackwichFourUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A845A99627BE4A5800A2ACC7 /* HackwichFourUITests.swift */; };
+		A845A9A527BE50C600A2ACC7 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A845A9A427BE50C600A2ACC7 /* secondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		A845A99227BE4A5800A2ACC7 /* HackwichFourUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HackwichFourUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A845A99627BE4A5800A2ACC7 /* HackwichFourUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichFourUITests.swift; sourceTree = "<group>"; };
 		A845A99827BE4A5800A2ACC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A845A9A427BE50C600A2ACC7 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				A845A97327BE4A5700A2ACC7 /* SceneDelegate.swift */,
 				A845A97527BE4A5700A2ACC7 /* ViewController.swift */,
 				A845A97727BE4A5700A2ACC7 /* Main.storyboard */,
+				A845A9A427BE50C600A2ACC7 /* secondViewController.swift */,
 				A845A97D27BE4A5800A2ACC7 /* Assets.xcassets */,
 				A845A97F27BE4A5800A2ACC7 /* LaunchScreen.storyboard */,
 				A845A98227BE4A5800A2ACC7 /* Info.plist */,
@@ -265,6 +268,7 @@
 				A845A97627BE4A5700A2ACC7 /* ViewController.swift in Sources */,
 				A845A97227BE4A5700A2ACC7 /* AppDelegate.swift in Sources */,
 				A845A97427BE4A5700A2ACC7 /* SceneDelegate.swift in Sources */,
+				A845A9A527BE50C600A2ACC7 /* secondViewController.swift in Sources */,
 				A845A97C27BE4A5700A2ACC7 /* HackwichFour.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
